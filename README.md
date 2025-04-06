@@ -17,10 +17,10 @@ Setup checklist for new Android phones.
     5. Re-add '<DELETE>' to prevent accidential regeneration of ToC 
 -->
 
-<!-- <DELETE>vim-markdown-toc GFM -->
+<!-- DELETE vim-markdown-toc GFM -->
 
-- [ ] [1. Normal item](#1-normal-item)
-- [ ] [2. Repo reference item](#2-repo-reference-item)
+- [ ] [1. Disable opening of links in the Gmail app](#1-disable-opening-of-links-in-the-gmail-app)
+- [ ] [2. Disable opening of links in the Google app](#2-disable-opening-of-links-in-the-google-app)
 
 <!-- vim-markdown-toc -->
 
