@@ -1,4 +1,4 @@
-# Setup: \<Object>
+# Setup: Android
 
 ![Android](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/android.svg)
 
